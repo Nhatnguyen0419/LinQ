@@ -1,0 +1,13 @@
+D:\HỌC TẬP\LinQ\Ex1\S4_QueryAndSyntaxMethod\obj\Debug\netcoreapp3.1\S4_QueryAndSyntaxMethod.csprojAssemblyReference.cache
+D:\HỌC TẬP\LinQ\Ex1\S4_QueryAndSyntaxMethod\obj\Debug\netcoreapp3.1\S4_QueryAndSyntaxMethod.AssemblyInfoInputs.cache
+D:\HỌC TẬP\LinQ\Ex1\S4_QueryAndSyntaxMethod\obj\Debug\netcoreapp3.1\S4_QueryAndSyntaxMethod.AssemblyInfo.cs
+D:\HỌC TẬP\LinQ\Ex1\S4_QueryAndSyntaxMethod\obj\Debug\netcoreapp3.1\S4_QueryAndSyntaxMethod.csproj.CoreCompileInputs.cache
+D:\HỌC TẬP\LinQ\Ex1\S4_QueryAndSyntaxMethod\bin\Debug\netcoreapp3.1\S4_QueryAndSyntaxMethod.exe
+D:\HỌC TẬP\LinQ\Ex1\S4_QueryAndSyntaxMethod\bin\Debug\netcoreapp3.1\S4_QueryAndSyntaxMethod.deps.json
+D:\HỌC TẬP\LinQ\Ex1\S4_QueryAndSyntaxMethod\bin\Debug\netcoreapp3.1\S4_QueryAndSyntaxMethod.runtimeconfig.json
+D:\HỌC TẬP\LinQ\Ex1\S4_QueryAndSyntaxMethod\bin\Debug\netcoreapp3.1\S4_QueryAndSyntaxMethod.runtimeconfig.dev.json
+D:\HỌC TẬP\LinQ\Ex1\S4_QueryAndSyntaxMethod\bin\Debug\netcoreapp3.1\S4_QueryAndSyntaxMethod.dll
+D:\HỌC TẬP\LinQ\Ex1\S4_QueryAndSyntaxMethod\bin\Debug\netcoreapp3.1\S4_QueryAndSyntaxMethod.pdb
+D:\HỌC TẬP\LinQ\Ex1\S4_QueryAndSyntaxMethod\obj\Debug\netcoreapp3.1\S4_QueryAndSyntaxMethod.dll
+D:\HỌC TẬP\LinQ\Ex1\S4_QueryAndSyntaxMethod\obj\Debug\netcoreapp3.1\S4_QueryAndSyntaxMethod.pdb
+D:\HỌC TẬP\LinQ\Ex1\S4_QueryAndSyntaxMethod\obj\Debug\netcoreapp3.1\S4_QueryAndSyntaxMethod.genruntimeconfig.cache

@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{EE698886-F85A-45DE-88DF-FC3AB56229C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "S1_ConsoleApp1", "ConsoleApp1\S1_ConsoleApp1.csproj", "{EE698886-F85A-45DE-88DF-FC3AB56229C2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "S2_ExtensionMethod", "ExtensionMethod\S2_ExtensionMethod.csproj", "{EB167EF7-D94F-401E-B729-76926D1393CF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "S3_LamdaExpression", "LamdaExpression\S3_LamdaExpression.csproj", "{C5D30D71-4B31-42E0-9EEE-A01523B41BA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S4_QueryAndSyntaxMethod", "S4_QueryAndSyntaxMethod\S4_QueryAndSyntaxMethod.csproj", "{D4803FAA-F8B2-4BCF-81E0-2FD8AAFA7427}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{EE698886-F85A-45DE-88DF-FC3AB56229C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE698886-F85A-45DE-88DF-FC3AB56229C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE698886-F85A-45DE-88DF-FC3AB56229C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB167EF7-D94F-401E-B729-76926D1393CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB167EF7-D94F-401E-B729-76926D1393CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB167EF7-D94F-401E-B729-76926D1393CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB167EF7-D94F-401E-B729-76926D1393CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5D30D71-4B31-42E0-9EEE-A01523B41BA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5D30D71-4B31-42E0-9EEE-A01523B41BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5D30D71-4B31-42E0-9EEE-A01523B41BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5D30D71-4B31-42E0-9EEE-A01523B41BA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4803FAA-F8B2-4BCF-81E0-2FD8AAFA7427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4803FAA-F8B2-4BCF-81E0-2FD8AAFA7427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4803FAA-F8B2-4BCF-81E0-2FD8AAFA7427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4803FAA-F8B2-4BCF-81E0-2FD8AAFA7427}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

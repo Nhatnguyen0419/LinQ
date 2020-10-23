@@ -1,0 +1,13 @@
+D:\HỌC TẬP\LinQ\Ex1\LamdaExpression\bin\Debug\netcoreapp3.1\S3_LamdaExpression.exe
+D:\HỌC TẬP\LinQ\Ex1\LamdaExpression\bin\Debug\netcoreapp3.1\S3_LamdaExpression.deps.json
+D:\HỌC TẬP\LinQ\Ex1\LamdaExpression\bin\Debug\netcoreapp3.1\S3_LamdaExpression.runtimeconfig.json
+D:\HỌC TẬP\LinQ\Ex1\LamdaExpression\bin\Debug\netcoreapp3.1\S3_LamdaExpression.runtimeconfig.dev.json
+D:\HỌC TẬP\LinQ\Ex1\LamdaExpression\bin\Debug\netcoreapp3.1\S3_LamdaExpression.dll
+D:\HỌC TẬP\LinQ\Ex1\LamdaExpression\bin\Debug\netcoreapp3.1\S3_LamdaExpression.pdb
+D:\HỌC TẬP\LinQ\Ex1\LamdaExpression\obj\Debug\netcoreapp3.1\S3_LamdaExpression.csprojAssemblyReference.cache
+D:\HỌC TẬP\LinQ\Ex1\LamdaExpression\obj\Debug\netcoreapp3.1\S3_LamdaExpression.AssemblyInfoInputs.cache
+D:\HỌC TẬP\LinQ\Ex1\LamdaExpression\obj\Debug\netcoreapp3.1\S3_LamdaExpression.AssemblyInfo.cs
+D:\HỌC TẬP\LinQ\Ex1\LamdaExpression\obj\Debug\netcoreapp3.1\S3_LamdaExpression.csproj.CoreCompileInputs.cache
+D:\HỌC TẬP\LinQ\Ex1\LamdaExpression\obj\Debug\netcoreapp3.1\S3_LamdaExpression.dll
+D:\HỌC TẬP\LinQ\Ex1\LamdaExpression\obj\Debug\netcoreapp3.1\S3_LamdaExpression.pdb
+D:\HỌC TẬP\LinQ\Ex1\LamdaExpression\obj\Debug\netcoreapp3.1\S3_LamdaExpression.genruntimeconfig.cache

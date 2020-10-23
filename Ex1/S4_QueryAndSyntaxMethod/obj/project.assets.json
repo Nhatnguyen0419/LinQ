@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\HỌC TẬP\\LinQ\\Ex1\\ConsoleApp1\\S1_ConsoleApp1.csproj",
-      "projectName": "S1_ConsoleApp1",
-      "projectPath": "D:\\HỌC TẬP\\LinQ\\Ex1\\ConsoleApp1\\S1_ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\HỌC TẬP\\LinQ\\Ex1\\S4_QueryAndSyntaxMethod\\S4_QueryAndSyntaxMethod.csproj",
+      "projectName": "S4_QueryAndSyntaxMethod",
+      "projectPath": "D:\\HỌC TẬP\\LinQ\\Ex1\\S4_QueryAndSyntaxMethod\\S4_QueryAndSyntaxMethod.csproj",
       "packagesPath": "C:\\Users\\NhatNguyen\\.nuget\\packages\\",
-      "outputPath": "D:\\HỌC TẬP\\LinQ\\Ex1\\ConsoleApp1\\obj\\",
+      "outputPath": "D:\\HỌC TẬP\\LinQ\\Ex1\\S4_QueryAndSyntaxMethod\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

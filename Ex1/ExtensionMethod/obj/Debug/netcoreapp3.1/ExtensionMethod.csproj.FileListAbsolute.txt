@@ -1,0 +1,13 @@
+D:\HỌC TẬP\LinQ\Ex1\ExtensionMethod\bin\Debug\netcoreapp3.1\ExtensionMethod.exe
+D:\HỌC TẬP\LinQ\Ex1\ExtensionMethod\bin\Debug\netcoreapp3.1\ExtensionMethod.deps.json
+D:\HỌC TẬP\LinQ\Ex1\ExtensionMethod\bin\Debug\netcoreapp3.1\ExtensionMethod.runtimeconfig.json
+D:\HỌC TẬP\LinQ\Ex1\ExtensionMethod\bin\Debug\netcoreapp3.1\ExtensionMethod.runtimeconfig.dev.json
+D:\HỌC TẬP\LinQ\Ex1\ExtensionMethod\bin\Debug\netcoreapp3.1\ExtensionMethod.dll
+D:\HỌC TẬP\LinQ\Ex1\ExtensionMethod\bin\Debug\netcoreapp3.1\ExtensionMethod.pdb
+D:\HỌC TẬP\LinQ\Ex1\ExtensionMethod\obj\Debug\netcoreapp3.1\ExtensionMethod.csprojAssemblyReference.cache
+D:\HỌC TẬP\LinQ\Ex1\ExtensionMethod\obj\Debug\netcoreapp3.1\ExtensionMethod.AssemblyInfoInputs.cache
+D:\HỌC TẬP\LinQ\Ex1\ExtensionMethod\obj\Debug\netcoreapp3.1\ExtensionMethod.AssemblyInfo.cs
+D:\HỌC TẬP\LinQ\Ex1\ExtensionMethod\obj\Debug\netcoreapp3.1\ExtensionMethod.csproj.CoreCompileInputs.cache
+D:\HỌC TẬP\LinQ\Ex1\ExtensionMethod\obj\Debug\netcoreapp3.1\ExtensionMethod.dll
+D:\HỌC TẬP\LinQ\Ex1\ExtensionMethod\obj\Debug\netcoreapp3.1\ExtensionMethod.pdb
+D:\HỌC TẬP\LinQ\Ex1\ExtensionMethod\obj\Debug\netcoreapp3.1\ExtensionMethod.genruntimeconfig.cache
