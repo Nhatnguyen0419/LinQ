@@ -16,7 +16,7 @@ namespace S13_ElementOperators
             Console.WriteLine("1st Element in strList: {0}", strList.ElementAt(0));
 
             Console.WriteLine("10th Element in intList: {0} - default int value",
-                intList.ElementAtOrDefault(9));
+                intList.ElementAtOrDefault(5));
             Console.WriteLine("10th Element in strList: {0} - default string value (null)",
                 strList.ElementAtOrDefault(9));
 

@@ -44,6 +44,7 @@ namespace S9_JoiningOperator
             //var innerJoin = from str1 in strList1
             //                join str2 in strList2 on str1 equals str2
             //                select str1;
+
             //foreach (var s in innerJoin)
             //{
             //    Console.WriteLine(s);
@@ -74,7 +75,7 @@ namespace S9_JoiningOperator
             //        {
             //            StudentName = student.StudentName,
             //            StandardName = standard.StandardName
-            //        });\
+            //        });
 
             #region Inner Join
 

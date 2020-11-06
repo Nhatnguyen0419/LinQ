@@ -1,0 +1,16 @@
+D:\HỌC TẬP\LinQ\Ex1\S14_EqualtyOpertator\bin\Debug\netcoreapp3.1\S14_EqualtyOpertator.exe
+D:\HỌC TẬP\LinQ\Ex1\S14_EqualtyOpertator\bin\Debug\netcoreapp3.1\S14_EqualtyOpertator.deps.json
+D:\HỌC TẬP\LinQ\Ex1\S14_EqualtyOpertator\bin\Debug\netcoreapp3.1\S14_EqualtyOpertator.runtimeconfig.json
+D:\HỌC TẬP\LinQ\Ex1\S14_EqualtyOpertator\bin\Debug\netcoreapp3.1\S14_EqualtyOpertator.runtimeconfig.dev.json
+D:\HỌC TẬP\LinQ\Ex1\S14_EqualtyOpertator\bin\Debug\netcoreapp3.1\S14_EqualtyOpertator.dll
+D:\HỌC TẬP\LinQ\Ex1\S14_EqualtyOpertator\bin\Debug\netcoreapp3.1\S14_EqualtyOpertator.pdb
+D:\HỌC TẬP\LinQ\Ex1\S14_EqualtyOpertator\bin\Debug\netcoreapp3.1\Models.dll
+D:\HỌC TẬP\LinQ\Ex1\S14_EqualtyOpertator\bin\Debug\netcoreapp3.1\Models.pdb
+D:\HỌC TẬP\LinQ\Ex1\S14_EqualtyOpertator\obj\Debug\netcoreapp3.1\S14_EqualtyOpertator.csprojAssemblyReference.cache
+D:\HỌC TẬP\LinQ\Ex1\S14_EqualtyOpertator\obj\Debug\netcoreapp3.1\S14_EqualtyOpertator.AssemblyInfoInputs.cache
+D:\HỌC TẬP\LinQ\Ex1\S14_EqualtyOpertator\obj\Debug\netcoreapp3.1\S14_EqualtyOpertator.AssemblyInfo.cs
+D:\HỌC TẬP\LinQ\Ex1\S14_EqualtyOpertator\obj\Debug\netcoreapp3.1\S14_EqualtyOpertator.csproj.CoreCompileInputs.cache
+D:\HỌC TẬP\LinQ\Ex1\S14_EqualtyOpertator\obj\Debug\netcoreapp3.1\S14_EqualtyOpertator.csproj.CopyComplete
+D:\HỌC TẬP\LinQ\Ex1\S14_EqualtyOpertator\obj\Debug\netcoreapp3.1\S14_EqualtyOpertator.dll
+D:\HỌC TẬP\LinQ\Ex1\S14_EqualtyOpertator\obj\Debug\netcoreapp3.1\S14_EqualtyOpertator.pdb
+D:\HỌC TẬP\LinQ\Ex1\S14_EqualtyOpertator\obj\Debug\netcoreapp3.1\S14_EqualtyOpertator.genruntimeconfig.cache

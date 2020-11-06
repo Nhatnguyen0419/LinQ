@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S12_AggregationOperators", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S13_ElementOperators", "S13_ElementOperators\S13_ElementOperators.csproj", "{915FFC5A-BEDF-4C70-B0D1-BE7409415CFD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S14_EqualtyOpertator", "S14_EqualtyOpertator\S14_EqualtyOpertator.csproj", "{3A108704-7327-4072-9B56-D7AC1125B0A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S15_Concatenation", "S15_Concatenation\S15_Concatenation.csproj", "{045DB800-B516-43AD-A72D-A0ED69A08635}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{915FFC5A-BEDF-4C70-B0D1-BE7409415CFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{915FFC5A-BEDF-4C70-B0D1-BE7409415CFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{915FFC5A-BEDF-4C70-B0D1-BE7409415CFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A108704-7327-4072-9B56-D7AC1125B0A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A108704-7327-4072-9B56-D7AC1125B0A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A108704-7327-4072-9B56-D7AC1125B0A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A108704-7327-4072-9B56-D7AC1125B0A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{045DB800-B516-43AD-A72D-A0ED69A08635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{045DB800-B516-43AD-A72D-A0ED69A08635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{045DB800-B516-43AD-A72D-A0ED69A08635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{045DB800-B516-43AD-A72D-A0ED69A08635}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
