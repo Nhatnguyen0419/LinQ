@@ -1,0 +1,16 @@
+D:\HỌC TẬP\LinQ\Ex1\S12_AggregationOperators\bin\Debug\netcoreapp3.1\S12_AggregationOperators.exe
+D:\HỌC TẬP\LinQ\Ex1\S12_AggregationOperators\bin\Debug\netcoreapp3.1\S12_AggregationOperators.deps.json
+D:\HỌC TẬP\LinQ\Ex1\S12_AggregationOperators\bin\Debug\netcoreapp3.1\S12_AggregationOperators.runtimeconfig.json
+D:\HỌC TẬP\LinQ\Ex1\S12_AggregationOperators\bin\Debug\netcoreapp3.1\S12_AggregationOperators.runtimeconfig.dev.json
+D:\HỌC TẬP\LinQ\Ex1\S12_AggregationOperators\bin\Debug\netcoreapp3.1\S12_AggregationOperators.dll
+D:\HỌC TẬP\LinQ\Ex1\S12_AggregationOperators\bin\Debug\netcoreapp3.1\S12_AggregationOperators.pdb
+D:\HỌC TẬP\LinQ\Ex1\S12_AggregationOperators\bin\Debug\netcoreapp3.1\Models.dll
+D:\HỌC TẬP\LinQ\Ex1\S12_AggregationOperators\bin\Debug\netcoreapp3.1\Models.pdb
+D:\HỌC TẬP\LinQ\Ex1\S12_AggregationOperators\obj\Debug\netcoreapp3.1\S12_AggregationOperators.csprojAssemblyReference.cache
+D:\HỌC TẬP\LinQ\Ex1\S12_AggregationOperators\obj\Debug\netcoreapp3.1\S12_AggregationOperators.AssemblyInfoInputs.cache
+D:\HỌC TẬP\LinQ\Ex1\S12_AggregationOperators\obj\Debug\netcoreapp3.1\S12_AggregationOperators.AssemblyInfo.cs
+D:\HỌC TẬP\LinQ\Ex1\S12_AggregationOperators\obj\Debug\netcoreapp3.1\S12_AggregationOperators.csproj.CoreCompileInputs.cache
+D:\HỌC TẬP\LinQ\Ex1\S12_AggregationOperators\obj\Debug\netcoreapp3.1\S12_AggregationOperators.csproj.CopyComplete
+D:\HỌC TẬP\LinQ\Ex1\S12_AggregationOperators\obj\Debug\netcoreapp3.1\S12_AggregationOperators.dll
+D:\HỌC TẬP\LinQ\Ex1\S12_AggregationOperators\obj\Debug\netcoreapp3.1\S12_AggregationOperators.pdb
+D:\HỌC TẬP\LinQ\Ex1\S12_AggregationOperators\obj\Debug\netcoreapp3.1\S12_AggregationOperators.genruntimeconfig.cache
