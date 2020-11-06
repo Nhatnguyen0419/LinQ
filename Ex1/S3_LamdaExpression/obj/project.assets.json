@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\HỌC TẬP\\LinQ\\Ex1\\LamdaExpression\\S3_LamdaExpression.csproj",
+      "projectUniqueName": "D:\\HỌC TẬP\\LinQ\\Ex1\\S3_LamdaExpression\\S3_LamdaExpression.csproj",
       "projectName": "S3_LamdaExpression",
-      "projectPath": "D:\\HỌC TẬP\\LinQ\\Ex1\\LamdaExpression\\S3_LamdaExpression.csproj",
+      "projectPath": "D:\\HỌC TẬP\\LinQ\\Ex1\\S3_LamdaExpression\\S3_LamdaExpression.csproj",
       "packagesPath": "C:\\Users\\NhatNguyen\\.nuget\\packages\\",
-      "outputPath": "D:\\HỌC TẬP\\LinQ\\Ex1\\LamdaExpression\\obj\\",
+      "outputPath": "D:\\HỌC TẬP\\LinQ\\Ex1\\S3_LamdaExpression\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

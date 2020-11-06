@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\HỌC TẬP\\LinQ\\Ex1\\ExtensionMethod\\S2_ExtensionMethod.csproj",
+      "projectUniqueName": "D:\\HỌC TẬP\\LinQ\\Ex1\\S2_ExtensionMethod\\S2_ExtensionMethod.csproj",
       "projectName": "S2_ExtensionMethod",
-      "projectPath": "D:\\HỌC TẬP\\LinQ\\Ex1\\ExtensionMethod\\S2_ExtensionMethod.csproj",
+      "projectPath": "D:\\HỌC TẬP\\LinQ\\Ex1\\S2_ExtensionMethod\\S2_ExtensionMethod.csproj",
       "packagesPath": "C:\\Users\\NhatNguyen\\.nuget\\packages\\",
-      "outputPath": "D:\\HỌC TẬP\\LinQ\\Ex1\\ExtensionMethod\\obj\\",
+      "outputPath": "D:\\HỌC TẬP\\LinQ\\Ex1\\S2_ExtensionMethod\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
