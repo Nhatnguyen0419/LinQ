@@ -1,17 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HỌC TẬP\\LinQ\\Ex1\\S5_CustomFilterOperator\\S5_CustomFilterOperator.csproj": {}
+    "D:\\HỌC TẬP\\LinQ\\Ex1\\S8_GroupingOperator\\S8_GroupingOperator.csproj": {}
   },
   "projects": {
-    "D:\\HỌC TẬP\\LinQ\\Ex1\\S5_CustomFilterOperator\\S5_CustomFilterOperator.csproj": {
+    "D:\\HỌC TẬP\\LinQ\\Ex1\\Models\\Models.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\HỌC TẬP\\LinQ\\Ex1\\Models\\Models.csproj",
+        "projectName": "Models",
+        "projectPath": "D:\\HỌC TẬP\\LinQ\\Ex1\\Models\\Models.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\HỌC TẬP\\LinQ\\Ex1\\S8_GroupingOperator\\S8_GroupingOperator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HỌC TẬP\\LinQ\\Ex1\\S5_CustomFilterOperator\\S5_CustomFilterOperator.csproj",
-        "projectName": "S5_CustomFilterOperator",
-        "projectPath": "D:\\HỌC TẬP\\LinQ\\Ex1\\S5_CustomFilterOperator\\S5_CustomFilterOperator.csproj",
+        "projectUniqueName": "D:\\HỌC TẬP\\LinQ\\Ex1\\S8_GroupingOperator\\S8_GroupingOperator.csproj",
+        "projectName": "S8_GroupingOperator",
+        "projectPath": "D:\\HỌC TẬP\\LinQ\\Ex1\\S8_GroupingOperator\\S8_GroupingOperator.csproj",
         "packagesPath": "C:\\Users\\NhatNguyen\\.nuget\\packages\\",
-        "outputPath": "D:\\HỌC TẬP\\LinQ\\Ex1\\S5_CustomFilterOperator\\obj\\",
+        "outputPath": "D:\\HỌC TẬP\\LinQ\\Ex1\\S8_GroupingOperator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -29,7 +39,11 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\HỌC TẬP\\LinQ\\Ex1\\Models\\Models.csproj": {
+                "projectPath": "D:\\HỌC TẬP\\LinQ\\Ex1\\Models\\Models.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

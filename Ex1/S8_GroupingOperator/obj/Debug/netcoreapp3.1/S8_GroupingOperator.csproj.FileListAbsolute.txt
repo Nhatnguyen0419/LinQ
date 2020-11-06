@@ -1,0 +1,16 @@
+D:\HỌC TẬP\LinQ\Ex1\S8_GroupingOperator\bin\Debug\netcoreapp3.1\S8_GroupingOperator.exe
+D:\HỌC TẬP\LinQ\Ex1\S8_GroupingOperator\bin\Debug\netcoreapp3.1\S8_GroupingOperator.deps.json
+D:\HỌC TẬP\LinQ\Ex1\S8_GroupingOperator\bin\Debug\netcoreapp3.1\S8_GroupingOperator.runtimeconfig.json
+D:\HỌC TẬP\LinQ\Ex1\S8_GroupingOperator\bin\Debug\netcoreapp3.1\S8_GroupingOperator.runtimeconfig.dev.json
+D:\HỌC TẬP\LinQ\Ex1\S8_GroupingOperator\bin\Debug\netcoreapp3.1\S8_GroupingOperator.dll
+D:\HỌC TẬP\LinQ\Ex1\S8_GroupingOperator\bin\Debug\netcoreapp3.1\S8_GroupingOperator.pdb
+D:\HỌC TẬP\LinQ\Ex1\S8_GroupingOperator\bin\Debug\netcoreapp3.1\Models.dll
+D:\HỌC TẬP\LinQ\Ex1\S8_GroupingOperator\bin\Debug\netcoreapp3.1\Models.pdb
+D:\HỌC TẬP\LinQ\Ex1\S8_GroupingOperator\obj\Debug\netcoreapp3.1\S8_GroupingOperator.csprojAssemblyReference.cache
+D:\HỌC TẬP\LinQ\Ex1\S8_GroupingOperator\obj\Debug\netcoreapp3.1\S8_GroupingOperator.AssemblyInfoInputs.cache
+D:\HỌC TẬP\LinQ\Ex1\S8_GroupingOperator\obj\Debug\netcoreapp3.1\S8_GroupingOperator.AssemblyInfo.cs
+D:\HỌC TẬP\LinQ\Ex1\S8_GroupingOperator\obj\Debug\netcoreapp3.1\S8_GroupingOperator.csproj.CoreCompileInputs.cache
+D:\HỌC TẬP\LinQ\Ex1\S8_GroupingOperator\obj\Debug\netcoreapp3.1\S8_GroupingOperator.csproj.CopyComplete
+D:\HỌC TẬP\LinQ\Ex1\S8_GroupingOperator\obj\Debug\netcoreapp3.1\S8_GroupingOperator.dll
+D:\HỌC TẬP\LinQ\Ex1\S8_GroupingOperator\obj\Debug\netcoreapp3.1\S8_GroupingOperator.pdb
+D:\HỌC TẬP\LinQ\Ex1\S8_GroupingOperator\obj\Debug\netcoreapp3.1\S8_GroupingOperator.genruntimeconfig.cache
