@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S11_QuantifierOperators", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S12_AggregationOperators", "S12_AggregationOperators\S12_AggregationOperators.csproj", "{BDDEFA3D-81D1-4D3D-8F2F-8CC6C5844878}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S13_ElementOperators", "S13_ElementOperators\S13_ElementOperators.csproj", "{915FFC5A-BEDF-4C70-B0D1-BE7409415CFD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{BDDEFA3D-81D1-4D3D-8F2F-8CC6C5844878}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDDEFA3D-81D1-4D3D-8F2F-8CC6C5844878}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDDEFA3D-81D1-4D3D-8F2F-8CC6C5844878}.Release|Any CPU.Build.0 = Release|Any CPU
+		{915FFC5A-BEDF-4C70-B0D1-BE7409415CFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{915FFC5A-BEDF-4C70-B0D1-BE7409415CFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{915FFC5A-BEDF-4C70-B0D1-BE7409415CFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{915FFC5A-BEDF-4C70-B0D1-BE7409415CFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

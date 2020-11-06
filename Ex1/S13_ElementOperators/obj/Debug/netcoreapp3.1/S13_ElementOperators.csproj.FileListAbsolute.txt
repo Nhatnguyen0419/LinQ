@@ -1,0 +1,12 @@
+D:\HỌC TẬP\LinQ\Ex1\S13_ElementOperators\bin\Debug\netcoreapp3.1\S13_ElementOperators.exe
+D:\HỌC TẬP\LinQ\Ex1\S13_ElementOperators\bin\Debug\netcoreapp3.1\S13_ElementOperators.deps.json
+D:\HỌC TẬP\LinQ\Ex1\S13_ElementOperators\bin\Debug\netcoreapp3.1\S13_ElementOperators.runtimeconfig.json
+D:\HỌC TẬP\LinQ\Ex1\S13_ElementOperators\bin\Debug\netcoreapp3.1\S13_ElementOperators.runtimeconfig.dev.json
+D:\HỌC TẬP\LinQ\Ex1\S13_ElementOperators\bin\Debug\netcoreapp3.1\S13_ElementOperators.dll
+D:\HỌC TẬP\LinQ\Ex1\S13_ElementOperators\bin\Debug\netcoreapp3.1\S13_ElementOperators.pdb
+D:\HỌC TẬP\LinQ\Ex1\S13_ElementOperators\obj\Debug\netcoreapp3.1\S13_ElementOperators.AssemblyInfoInputs.cache
+D:\HỌC TẬP\LinQ\Ex1\S13_ElementOperators\obj\Debug\netcoreapp3.1\S13_ElementOperators.AssemblyInfo.cs
+D:\HỌC TẬP\LinQ\Ex1\S13_ElementOperators\obj\Debug\netcoreapp3.1\S13_ElementOperators.csproj.CoreCompileInputs.cache
+D:\HỌC TẬP\LinQ\Ex1\S13_ElementOperators\obj\Debug\netcoreapp3.1\S13_ElementOperators.dll
+D:\HỌC TẬP\LinQ\Ex1\S13_ElementOperators\obj\Debug\netcoreapp3.1\S13_ElementOperators.pdb
+D:\HỌC TẬP\LinQ\Ex1\S13_ElementOperators\obj\Debug\netcoreapp3.1\S13_ElementOperators.genruntimeconfig.cache
