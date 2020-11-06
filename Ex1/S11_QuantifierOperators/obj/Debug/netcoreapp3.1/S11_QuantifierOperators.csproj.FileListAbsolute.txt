@@ -1,0 +1,16 @@
+D:\HỌC TẬP\LinQ\Ex1\S11_QuantifierOperators\bin\Debug\netcoreapp3.1\S11_QuantifierOperators.exe
+D:\HỌC TẬP\LinQ\Ex1\S11_QuantifierOperators\bin\Debug\netcoreapp3.1\S11_QuantifierOperators.deps.json
+D:\HỌC TẬP\LinQ\Ex1\S11_QuantifierOperators\bin\Debug\netcoreapp3.1\S11_QuantifierOperators.runtimeconfig.json
+D:\HỌC TẬP\LinQ\Ex1\S11_QuantifierOperators\bin\Debug\netcoreapp3.1\S11_QuantifierOperators.runtimeconfig.dev.json
+D:\HỌC TẬP\LinQ\Ex1\S11_QuantifierOperators\bin\Debug\netcoreapp3.1\S11_QuantifierOperators.dll
+D:\HỌC TẬP\LinQ\Ex1\S11_QuantifierOperators\bin\Debug\netcoreapp3.1\S11_QuantifierOperators.pdb
+D:\HỌC TẬP\LinQ\Ex1\S11_QuantifierOperators\bin\Debug\netcoreapp3.1\Models.dll
+D:\HỌC TẬP\LinQ\Ex1\S11_QuantifierOperators\bin\Debug\netcoreapp3.1\Models.pdb
+D:\HỌC TẬP\LinQ\Ex1\S11_QuantifierOperators\obj\Debug\netcoreapp3.1\S11_QuantifierOperators.csprojAssemblyReference.cache
+D:\HỌC TẬP\LinQ\Ex1\S11_QuantifierOperators\obj\Debug\netcoreapp3.1\S11_QuantifierOperators.AssemblyInfoInputs.cache
+D:\HỌC TẬP\LinQ\Ex1\S11_QuantifierOperators\obj\Debug\netcoreapp3.1\S11_QuantifierOperators.AssemblyInfo.cs
+D:\HỌC TẬP\LinQ\Ex1\S11_QuantifierOperators\obj\Debug\netcoreapp3.1\S11_QuantifierOperators.csproj.CoreCompileInputs.cache
+D:\HỌC TẬP\LinQ\Ex1\S11_QuantifierOperators\obj\Debug\netcoreapp3.1\S11_QuantifierOperators.csproj.CopyComplete
+D:\HỌC TẬP\LinQ\Ex1\S11_QuantifierOperators\obj\Debug\netcoreapp3.1\S11_QuantifierOperators.dll
+D:\HỌC TẬP\LinQ\Ex1\S11_QuantifierOperators\obj\Debug\netcoreapp3.1\S11_QuantifierOperators.pdb
+D:\HỌC TẬP\LinQ\Ex1\S11_QuantifierOperators\obj\Debug\netcoreapp3.1\S11_QuantifierOperators.genruntimeconfig.cache

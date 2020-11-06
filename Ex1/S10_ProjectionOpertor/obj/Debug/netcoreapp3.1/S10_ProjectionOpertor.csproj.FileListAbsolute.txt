@@ -1,0 +1,12 @@
+D:\HỌC TẬP\LinQ\Ex1\S10_ProjectionOpertor\bin\Debug\netcoreapp3.1\S10_ProjectionOpertor.exe
+D:\HỌC TẬP\LinQ\Ex1\S10_ProjectionOpertor\bin\Debug\netcoreapp3.1\S10_ProjectionOpertor.deps.json
+D:\HỌC TẬP\LinQ\Ex1\S10_ProjectionOpertor\bin\Debug\netcoreapp3.1\S10_ProjectionOpertor.runtimeconfig.json
+D:\HỌC TẬP\LinQ\Ex1\S10_ProjectionOpertor\bin\Debug\netcoreapp3.1\S10_ProjectionOpertor.runtimeconfig.dev.json
+D:\HỌC TẬP\LinQ\Ex1\S10_ProjectionOpertor\bin\Debug\netcoreapp3.1\S10_ProjectionOpertor.dll
+D:\HỌC TẬP\LinQ\Ex1\S10_ProjectionOpertor\bin\Debug\netcoreapp3.1\S10_ProjectionOpertor.pdb
+D:\HỌC TẬP\LinQ\Ex1\S10_ProjectionOpertor\obj\Debug\netcoreapp3.1\S10_ProjectionOpertor.AssemblyInfoInputs.cache
+D:\HỌC TẬP\LinQ\Ex1\S10_ProjectionOpertor\obj\Debug\netcoreapp3.1\S10_ProjectionOpertor.AssemblyInfo.cs
+D:\HỌC TẬP\LinQ\Ex1\S10_ProjectionOpertor\obj\Debug\netcoreapp3.1\S10_ProjectionOpertor.csproj.CoreCompileInputs.cache
+D:\HỌC TẬP\LinQ\Ex1\S10_ProjectionOpertor\obj\Debug\netcoreapp3.1\S10_ProjectionOpertor.dll
+D:\HỌC TẬP\LinQ\Ex1\S10_ProjectionOpertor\obj\Debug\netcoreapp3.1\S10_ProjectionOpertor.pdb
+D:\HỌC TẬP\LinQ\Ex1\S10_ProjectionOpertor\obj\Debug\netcoreapp3.1\S10_ProjectionOpertor.genruntimeconfig.cache

@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S8_GroupingOperator", "S8_G
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S9_JoiningOperator", "S9_JoiningOperator\S9_JoiningOperator.csproj", "{5DA4D497-A2E4-41F8-9C68-9CADA358CAA7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S10_ProjectionOpertor", "S10_ProjectionOpertor\S10_ProjectionOpertor.csproj", "{2D575651-D7E2-4F3D-8FC6-9D89C95B6B2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S11_QuantifierOperators", "S11_QuantifierOperators\S11_QuantifierOperators.csproj", "{EB8D28C4-847B-4F09-8D22-C275478E0C36}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{5DA4D497-A2E4-41F8-9C68-9CADA358CAA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DA4D497-A2E4-41F8-9C68-9CADA358CAA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DA4D497-A2E4-41F8-9C68-9CADA358CAA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D575651-D7E2-4F3D-8FC6-9D89C95B6B2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D575651-D7E2-4F3D-8FC6-9D89C95B6B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D575651-D7E2-4F3D-8FC6-9D89C95B6B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D575651-D7E2-4F3D-8FC6-9D89C95B6B2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB8D28C4-847B-4F09-8D22-C275478E0C36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB8D28C4-847B-4F09-8D22-C275478E0C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB8D28C4-847B-4F09-8D22-C275478E0C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB8D28C4-847B-4F09-8D22-C275478E0C36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
