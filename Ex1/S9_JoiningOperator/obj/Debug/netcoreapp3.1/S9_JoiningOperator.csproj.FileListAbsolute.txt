@@ -1,0 +1,13 @@
+D:\HỌC TẬP\LinQ\Ex1\S9_JoiningOperator\bin\Debug\netcoreapp3.1\S9_JoiningOperator.exe
+D:\HỌC TẬP\LinQ\Ex1\S9_JoiningOperator\bin\Debug\netcoreapp3.1\S9_JoiningOperator.deps.json
+D:\HỌC TẬP\LinQ\Ex1\S9_JoiningOperator\bin\Debug\netcoreapp3.1\S9_JoiningOperator.runtimeconfig.json
+D:\HỌC TẬP\LinQ\Ex1\S9_JoiningOperator\bin\Debug\netcoreapp3.1\S9_JoiningOperator.runtimeconfig.dev.json
+D:\HỌC TẬP\LinQ\Ex1\S9_JoiningOperator\bin\Debug\netcoreapp3.1\S9_JoiningOperator.dll
+D:\HỌC TẬP\LinQ\Ex1\S9_JoiningOperator\bin\Debug\netcoreapp3.1\S9_JoiningOperator.pdb
+D:\HỌC TẬP\LinQ\Ex1\S9_JoiningOperator\obj\Debug\netcoreapp3.1\S9_JoiningOperator.csprojAssemblyReference.cache
+D:\HỌC TẬP\LinQ\Ex1\S9_JoiningOperator\obj\Debug\netcoreapp3.1\S9_JoiningOperator.AssemblyInfoInputs.cache
+D:\HỌC TẬP\LinQ\Ex1\S9_JoiningOperator\obj\Debug\netcoreapp3.1\S9_JoiningOperator.AssemblyInfo.cs
+D:\HỌC TẬP\LinQ\Ex1\S9_JoiningOperator\obj\Debug\netcoreapp3.1\S9_JoiningOperator.csproj.CoreCompileInputs.cache
+D:\HỌC TẬP\LinQ\Ex1\S9_JoiningOperator\obj\Debug\netcoreapp3.1\S9_JoiningOperator.dll
+D:\HỌC TẬP\LinQ\Ex1\S9_JoiningOperator\obj\Debug\netcoreapp3.1\S9_JoiningOperator.pdb
+D:\HỌC TẬP\LinQ\Ex1\S9_JoiningOperator\obj\Debug\netcoreapp3.1\S9_JoiningOperator.genruntimeconfig.cache
