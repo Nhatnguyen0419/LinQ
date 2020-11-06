@@ -1,0 +1,6 @@
+D:\HỌC TẬP\LinQ\Ex1\Models\bin\Debug\Models.dll
+D:\HỌC TẬP\LinQ\Ex1\Models\bin\Debug\Models.pdb
+D:\HỌC TẬP\LinQ\Ex1\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\HỌC TẬP\LinQ\Ex1\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\HỌC TẬP\LinQ\Ex1\Models\obj\Debug\Models.dll
+D:\HỌC TẬP\LinQ\Ex1\Models\obj\Debug\Models.pdb

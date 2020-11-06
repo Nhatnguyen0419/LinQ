@@ -45,6 +45,7 @@ namespace S4_QueryAndSyntaxMethod
                                    select s;
 
             //var teenAgerStudents = studentList.Where(s => s.Age > 12 && s.Age < 20);
+
             foreach (var s in teenAgerStudents)
             {
                 Console.WriteLine(s.StudentName);

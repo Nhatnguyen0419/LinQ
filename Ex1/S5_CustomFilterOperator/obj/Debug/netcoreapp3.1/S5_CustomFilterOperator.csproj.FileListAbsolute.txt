@@ -1,0 +1,13 @@
+D:\HỌC TẬP\LinQ\Ex1\CustomFilterOperator\bin\Debug\netcoreapp3.1\S5_CustomFilterOperator.exe
+D:\HỌC TẬP\LinQ\Ex1\CustomFilterOperator\bin\Debug\netcoreapp3.1\S5_CustomFilterOperator.deps.json
+D:\HỌC TẬP\LinQ\Ex1\CustomFilterOperator\bin\Debug\netcoreapp3.1\S5_CustomFilterOperator.runtimeconfig.json
+D:\HỌC TẬP\LinQ\Ex1\CustomFilterOperator\bin\Debug\netcoreapp3.1\S5_CustomFilterOperator.runtimeconfig.dev.json
+D:\HỌC TẬP\LinQ\Ex1\CustomFilterOperator\bin\Debug\netcoreapp3.1\S5_CustomFilterOperator.dll
+D:\HỌC TẬP\LinQ\Ex1\CustomFilterOperator\bin\Debug\netcoreapp3.1\S5_CustomFilterOperator.pdb
+D:\HỌC TẬP\LinQ\Ex1\CustomFilterOperator\obj\Debug\netcoreapp3.1\S5_CustomFilterOperator.AssemblyInfoInputs.cache
+D:\HỌC TẬP\LinQ\Ex1\CustomFilterOperator\obj\Debug\netcoreapp3.1\S5_CustomFilterOperator.AssemblyInfo.cs
+D:\HỌC TẬP\LinQ\Ex1\CustomFilterOperator\obj\Debug\netcoreapp3.1\S5_CustomFilterOperator.csproj.CoreCompileInputs.cache
+D:\HỌC TẬP\LinQ\Ex1\CustomFilterOperator\obj\Debug\netcoreapp3.1\S5_CustomFilterOperator.dll
+D:\HỌC TẬP\LinQ\Ex1\CustomFilterOperator\obj\Debug\netcoreapp3.1\S5_CustomFilterOperator.pdb
+D:\HỌC TẬP\LinQ\Ex1\CustomFilterOperator\obj\Debug\netcoreapp3.1\S5_CustomFilterOperator.genruntimeconfig.cache
+D:\HỌC TẬP\LinQ\Ex1\CustomFilterOperator\obj\Debug\netcoreapp3.1\S5_CustomFilterOperator.csprojAssemblyReference.cache

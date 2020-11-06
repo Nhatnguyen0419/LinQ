@@ -1,0 +1,16 @@
+D:\HỌC TẬP\LinQ\Ex1\S7_SortingOperator\obj\Debug\netcoreapp3.1\S7_SortingOperator.AssemblyInfoInputs.cache
+D:\HỌC TẬP\LinQ\Ex1\S7_SortingOperator\obj\Debug\netcoreapp3.1\S7_SortingOperator.AssemblyInfo.cs
+D:\HỌC TẬP\LinQ\Ex1\S7_SortingOperator\obj\Debug\netcoreapp3.1\S7_SortingOperator.csproj.CoreCompileInputs.cache
+D:\HỌC TẬP\LinQ\Ex1\S7_SortingOperator\bin\Debug\netcoreapp3.1\S7_SortingOperator.exe
+D:\HỌC TẬP\LinQ\Ex1\S7_SortingOperator\bin\Debug\netcoreapp3.1\S7_SortingOperator.deps.json
+D:\HỌC TẬP\LinQ\Ex1\S7_SortingOperator\bin\Debug\netcoreapp3.1\S7_SortingOperator.runtimeconfig.json
+D:\HỌC TẬP\LinQ\Ex1\S7_SortingOperator\bin\Debug\netcoreapp3.1\S7_SortingOperator.runtimeconfig.dev.json
+D:\HỌC TẬP\LinQ\Ex1\S7_SortingOperator\bin\Debug\netcoreapp3.1\S7_SortingOperator.dll
+D:\HỌC TẬP\LinQ\Ex1\S7_SortingOperator\bin\Debug\netcoreapp3.1\S7_SortingOperator.pdb
+D:\HỌC TẬP\LinQ\Ex1\S7_SortingOperator\bin\Debug\netcoreapp3.1\Models.dll
+D:\HỌC TẬP\LinQ\Ex1\S7_SortingOperator\bin\Debug\netcoreapp3.1\Models.pdb
+D:\HỌC TẬP\LinQ\Ex1\S7_SortingOperator\obj\Debug\netcoreapp3.1\S7_SortingOperator.csprojAssemblyReference.cache
+D:\HỌC TẬP\LinQ\Ex1\S7_SortingOperator\obj\Debug\netcoreapp3.1\S7_SortingOperator.csproj.CopyComplete
+D:\HỌC TẬP\LinQ\Ex1\S7_SortingOperator\obj\Debug\netcoreapp3.1\S7_SortingOperator.dll
+D:\HỌC TẬP\LinQ\Ex1\S7_SortingOperator\obj\Debug\netcoreapp3.1\S7_SortingOperator.pdb
+D:\HỌC TẬP\LinQ\Ex1\S7_SortingOperator\obj\Debug\netcoreapp3.1\S7_SortingOperator.genruntimeconfig.cache

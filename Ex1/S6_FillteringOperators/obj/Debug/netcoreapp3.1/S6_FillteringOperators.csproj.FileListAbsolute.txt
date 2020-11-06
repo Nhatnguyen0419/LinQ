@@ -1,0 +1,13 @@
+D:\HỌC TẬP\LinQ\Ex1\S6_FillteringOperators\bin\Debug\netcoreapp3.1\S6_FillteringOperators.exe
+D:\HỌC TẬP\LinQ\Ex1\S6_FillteringOperators\bin\Debug\netcoreapp3.1\S6_FillteringOperators.deps.json
+D:\HỌC TẬP\LinQ\Ex1\S6_FillteringOperators\bin\Debug\netcoreapp3.1\S6_FillteringOperators.runtimeconfig.json
+D:\HỌC TẬP\LinQ\Ex1\S6_FillteringOperators\bin\Debug\netcoreapp3.1\S6_FillteringOperators.runtimeconfig.dev.json
+D:\HỌC TẬP\LinQ\Ex1\S6_FillteringOperators\bin\Debug\netcoreapp3.1\S6_FillteringOperators.dll
+D:\HỌC TẬP\LinQ\Ex1\S6_FillteringOperators\bin\Debug\netcoreapp3.1\S6_FillteringOperators.pdb
+D:\HỌC TẬP\LinQ\Ex1\S6_FillteringOperators\obj\Debug\netcoreapp3.1\S6_FillteringOperators.csprojAssemblyReference.cache
+D:\HỌC TẬP\LinQ\Ex1\S6_FillteringOperators\obj\Debug\netcoreapp3.1\S6_FillteringOperators.AssemblyInfoInputs.cache
+D:\HỌC TẬP\LinQ\Ex1\S6_FillteringOperators\obj\Debug\netcoreapp3.1\S6_FillteringOperators.AssemblyInfo.cs
+D:\HỌC TẬP\LinQ\Ex1\S6_FillteringOperators\obj\Debug\netcoreapp3.1\S6_FillteringOperators.csproj.CoreCompileInputs.cache
+D:\HỌC TẬP\LinQ\Ex1\S6_FillteringOperators\obj\Debug\netcoreapp3.1\S6_FillteringOperators.dll
+D:\HỌC TẬP\LinQ\Ex1\S6_FillteringOperators\obj\Debug\netcoreapp3.1\S6_FillteringOperators.pdb
+D:\HỌC TẬP\LinQ\Ex1\S6_FillteringOperators\obj\Debug\netcoreapp3.1\S6_FillteringOperators.genruntimeconfig.cache
