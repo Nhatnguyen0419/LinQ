@@ -1,0 +1,12 @@
+D:\HỌC TẬP\LinQ\Ex1\S16_GenerationOperator\bin\Debug\netcoreapp3.1\S16_GenerationOperator.exe
+D:\HỌC TẬP\LinQ\Ex1\S16_GenerationOperator\bin\Debug\netcoreapp3.1\S16_GenerationOperator.deps.json
+D:\HỌC TẬP\LinQ\Ex1\S16_GenerationOperator\bin\Debug\netcoreapp3.1\S16_GenerationOperator.runtimeconfig.json
+D:\HỌC TẬP\LinQ\Ex1\S16_GenerationOperator\bin\Debug\netcoreapp3.1\S16_GenerationOperator.runtimeconfig.dev.json
+D:\HỌC TẬP\LinQ\Ex1\S16_GenerationOperator\bin\Debug\netcoreapp3.1\S16_GenerationOperator.dll
+D:\HỌC TẬP\LinQ\Ex1\S16_GenerationOperator\bin\Debug\netcoreapp3.1\S16_GenerationOperator.pdb
+D:\HỌC TẬP\LinQ\Ex1\S16_GenerationOperator\obj\Debug\netcoreapp3.1\S16_GenerationOperator.AssemblyInfoInputs.cache
+D:\HỌC TẬP\LinQ\Ex1\S16_GenerationOperator\obj\Debug\netcoreapp3.1\S16_GenerationOperator.AssemblyInfo.cs
+D:\HỌC TẬP\LinQ\Ex1\S16_GenerationOperator\obj\Debug\netcoreapp3.1\S16_GenerationOperator.csproj.CoreCompileInputs.cache
+D:\HỌC TẬP\LinQ\Ex1\S16_GenerationOperator\obj\Debug\netcoreapp3.1\S16_GenerationOperator.dll
+D:\HỌC TẬP\LinQ\Ex1\S16_GenerationOperator\obj\Debug\netcoreapp3.1\S16_GenerationOperator.pdb
+D:\HỌC TẬP\LinQ\Ex1\S16_GenerationOperator\obj\Debug\netcoreapp3.1\S16_GenerationOperator.genruntimeconfig.cache
